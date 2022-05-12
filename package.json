@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/prakashaditya13/file-encryption-nodejs/issues"
   },
-  "homepage": "https://github.com/prakashaditya13/file-encryption-nodejs#readme"
+  "homepage": "https://github.com/prakashaditya13/file-encryption-nodejs#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
 }
